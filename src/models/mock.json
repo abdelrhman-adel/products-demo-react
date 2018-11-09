@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "title": "Nerf N-Strike Blazin Bow Blaster",
+  "description": "Hit your mark with the real bow action of the Blazin' Bow blaster! Pull it back and let fly with one of the 3 giant foam arrows at targets up to 40 feet away. The blaster's 20-inch wingspan gives it big launching power, and you can reload quickly from the blaster's arrow storage compartment! Take aim and sharpen your archery skills with the Blazin' Bow blaster!",
+  "specification": "Hit your mark with the real bow action of the Blazin' Bow blaster! Pull it back and let fly with one of the 3 giant foam arrows at targets up to 40 feet away. The blaster's 20-inch wingspan gives it big launching power, and you can reload quickly from the blaster's arrow storage compartment! Take aim and sharpen your archery skills with the Blazin' Bow blaster!",
+  "price": 19.99,
+  "images": [
+    {
+      "thumb": "http://www.hasbrotoyshop.com/wcsstore/HTSCatalogAssetStore/common/productimages/en_US/f975b58950569047f5d9773f03ec97cc/4469FD4750569047F5D267C0D8001048.jpg",
+      "original": "http://www.hasbrotoyshop.com/wcsstore/HTSCatalogAssetStore//common/productimages/en_US/f975b58950569047f5d9773f03ec97cc/b9f83d2b81388746c986c4a81e2f698a2139b687.jpg"
+    },
+    {
+      "thumb": "http://www.hasbrotoyshop.com/wcsstore/HTSCatalogAssetStore/common/productimages/en_US/f975b58950569047f5d9773f03ec97cc/4469FD4750569047F5D267C0D8001048.jpg",
+      "original": "http://www.hasbrotoyshop.com/wcsstore/HTSCatalogAssetStore/common/productimages/en_US/f975b58950569047f5d9773f03ec97cc/ed0218202d61323f15ad71d079529e4d4d6d52fb.jpg"
+    },
+    {
+      "thumb": "http://www.hasbrotoyshop.com/wcsstore/HTSCatalogAssetStore/common/productimages/en_US/f975b58950569047f5d9773f03ec97cc/446A066E50569047F51BDDAE2F7283BE.jpg",
+      "original": "http://www.hasbrotoyshop.com/wcsstore/HTSCatalogAssetStore/common/productimages/en_US/f975b58950569047f5d9773f03ec97cc/4405e2d27b8c91fd094f657912c6aee20db87be1.jpg"
+    }
+  ]
+}
